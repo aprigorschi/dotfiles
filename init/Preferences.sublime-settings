@@ -1,0 +1,27 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/wild-cherry/wild-cherry.tmTheme",
+	"copy_with_empty_selection": true,
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown Extended",
+		"Bootstrap 3 Snippets",
+		"Markdown",
+		"Nodejs",
+		"JavaScript"
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "wild-cherry.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
